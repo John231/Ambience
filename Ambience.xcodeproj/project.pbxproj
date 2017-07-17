@@ -62,7 +62,6 @@
 		7C8B2C211E42DE3100CD8901 /* Op_HIHAT.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Op_HIHAT.wav; path = ../Op_HIHAT.wav; sourceTree = "<group>"; };
 		7C8B2C221E42DE3100CD8901 /* Rim.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Rim.wav; path = ../Rim.wav; sourceTree = "<group>"; };
 		7C8B2C231E42DE3100CD8901 /* Snare.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Snare.wav; path = ../Snare.wav; sourceTree = "<group>"; };
-		7CA55FC71F1D302600622D21 /* AudioKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioKit.framework; path = "../../../AudioKit-iOS/AudioKit.framework"; sourceTree = "<group>"; };
 		7CED65691E40BB21006321A2 /* DrumEngine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrumEngine.swift; sourceTree = "<group>"; };
 		7CED656B1E40D6CA006321A2 /* AudioRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioRouter.swift; sourceTree = "<group>"; };
 		7CED656D1E410A11006321A2 /* RecordingEngine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordingEngine.swift; sourceTree = "<group>"; };
@@ -127,7 +126,6 @@
 		7CA55FC61F1D302600622D21 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				7CA55FC71F1D302600622D21 /* AudioKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
